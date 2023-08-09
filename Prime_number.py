@@ -10,5 +10,5 @@ def isprime(x):
         return(True)
 
 
-isprime(7)
+print(isprime(7))
     
