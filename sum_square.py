@@ -10,4 +10,5 @@ def sumsquare(l):
 
     return([sum_odd,sum_even])
 l=[-1,-2,3,7]
+
 print(sumsquare(l))
