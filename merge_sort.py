@@ -35,6 +35,6 @@ def merge(left, right):
 
     return sorted_list
 
-original_list=[1,34,34,34212,32453,2314,1,2,324,24]
+original_list=[1,34,34,34212,32453,2314,1,2]
 
 print(merge_sort(original_list))
