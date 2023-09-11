@@ -1,0 +1,2 @@
+print("Odd:", odd_elements)
+print("Even:", even_elements)
